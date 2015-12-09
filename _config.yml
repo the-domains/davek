@@ -1,0 +1,28 @@
+name: DaveK
+favicon: null
+layout_spectrum: 0.4044188593979925
+typography_spectrum: 0.7640287955291569
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10187921184115112
+  lightness: 0.6410795745905489
+  saturation: 0.254927353002131
+  rhythmicContrast: 0.2100249002687633
+purpose: []
